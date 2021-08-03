@@ -1,6 +1,6 @@
 esta es la primera edicion de nuestro proyecto
 
-El dia de hoy a las 10:21 am   
+El dia de hoy a las 10:30 am   
 
 
-HIstoria 
+HIstoria  de como trato de aprender git  :D
