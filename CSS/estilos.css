@@ -3,7 +3,7 @@ body
     color: rgb(38, 255, 0);
 text-align: center;
 font-family: Arial, Helvetica, sans-serif;
-font-size: 20px;
+font-size: 15px;
 margin: 0rem;
 padding: 0ex;
 
@@ -11,15 +11,21 @@ padding: 0ex;
 
 #container
 {
-width: 70%;
+width: 40%;
 padding: 1em;
 text-align: justify;
-border: 2px solid green ;
+border: 2px solid indianred ;
 margin: 0;
 }
 
+#container h2
+{
+    color: lightseagreen;
+    width: 60%;
+    padding: 2em;
+    text-align: center;
+}
 #container p
-
 {
 
 width: 70%;
