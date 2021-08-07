@@ -1,9 +1,9 @@
 body
 {
-    color: red;
+    color: blue;
 text-align: center;
-font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-font-size: 20px;
+font-family: sans-serif;
+font-size: 40px;
 margin: 0rem;
 padding: 0ex;
 
@@ -42,7 +42,7 @@ margin: 0;
     width: 60%;
     padding: 2em;
     text-align: center;
-    font-family: monospace;
+    font-family: serif;
 }
 #container p
 {
@@ -50,6 +50,6 @@ margin: 0;
 width: 70%;
 padding: 1em;
 text-align: left;
-color: red;
-font-family: Arial, Helvetica, sans-serif;
+color: blue;
+font-family:serif;
 }
