@@ -1,15 +1,12 @@
 body
 {
-<<<<<<< HEAD
-    color:blue);
-=======
-    color: red;
->>>>>>> cabecera
+    color: blue;
 text-align: center;
-font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-font-size: 20px;
+font-family: sans-serif;
+font-size: 40px;
 margin: 0rem;
 padding: 0ex;
+background:peru;
 
 }
 
@@ -17,10 +14,9 @@ padding: 0ex;
 font-size: 30px;
 background: blueviolet;
 color: rgb(187, 236, 236);
-box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 5);
+box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 3);
 padding: 3%;
 text-align: center;
-
 margin: 0 auto;
 }
 
@@ -34,30 +30,36 @@ margin: auto;
 #container
 {
 width: 40%;
-padding: 1em;
-text-align: justify;
-border: 2px solid indianred ;
-margin: 0;
+padding:3%;
+text-align: center;
+border: 10px solid indianred ;
+margin:3%;
 }
 
 #container h1
 {
     color: lightseagreen;
-    width: 60%;
+    width: 75%;
     padding: 2em;
     text-align: center;
-    font-family: monospace;
+    font-family: serif;
 }
 #container p
 {
-
-width: 70%;
+width: 90%;
 padding: 1em;
-text-align: left;
 <<<<<<< HEAD
-color: blue;
-=======
-color: red;
->>>>>>> cabecera
+text-align:justify;
+color:black;
 font-family: Arial, Helvetica, sans-serif;
+=======
+text-align: left;
+color: blue;
+font-family:serif;
+>>>>>>> cabecera
 }
+ #post
+ {
+     background :blanchedalmond;
+     padding-box:1em;
+ }
