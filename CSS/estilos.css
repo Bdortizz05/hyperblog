@@ -30,29 +30,27 @@ margin: auto;
 #container
 {
 width: 40%;
-padding: 1em;
-text-align: justify;
-border: 1px solid indianred ;
-margin: 0pc;
+padding:3%;
+text-align: center;
+border: 10px solid indianred ;
+margin:3%;
 }
 
 #container h1
 {
     color: lightseagreen;
-    width: 60%;
+    width: 75%;
     padding: 2em;
     text-align: center;
     font-family: monospace;
 }
 #container p
 {
-
-width: 70%;
+width: 90%;
 padding: 1em;
-text-align: left;
-color: red;
+text-align:justify;
+color:black;
 font-family: Arial, Helvetica, sans-serif;
-text-align: center;
 }
  #post
  {
