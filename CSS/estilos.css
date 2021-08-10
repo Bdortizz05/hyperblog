@@ -48,18 +48,20 @@ margin:3%;
 {
 width: 90%;
 padding: 1em;
-<<<<<<< HEAD
-text-align:justify;
-color:black;
-font-family: Arial, Helvetica, sans-serif;
-=======
 text-align: left;
 color: blue;
 font-family:serif;
->>>>>>> cabecera
 }
  #post
  {
      background :blanchedalmond;
      padding-box:1em;
+ }
+ #footer
+ {
+background-color: cadetblue;
+color: darkred;
+text-align: center;
+box-shadow: 5px 5px 5px 0px rgba(0, 0, 0, 3);
+padding: 4%;
  }
