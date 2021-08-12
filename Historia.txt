@@ -4,6 +4,12 @@ sin realizar muchas cosas
 
 El dia de hoy a las 10:30 am   
 
+Master 2
+
 Master  1
 
+bugfix 1
+
+
+Bugfix 2
 HIstoria  de como trato de aprender git  :D
