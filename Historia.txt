@@ -5,12 +5,9 @@ sin realizar muchas cosas
 El dia de hoy a las 10:30 am   
 
 Bugfix 1
-<<<<<<< HEAD
-=======
 
 bugfix 2
 expermiento 2 
->>>>>>> bugfix
 
 Master 1
 
