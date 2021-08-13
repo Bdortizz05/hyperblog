@@ -4,9 +4,16 @@ sin realizar muchas cosas
 
 El dia de hoy a las 10:30 am   
 
+<<<<<<< HEAD
 Master 2
 
 Master  1
+=======
+Bugfix 1
+
+bugfix 2
+expermiento 2 
+>>>>>>> f1230172155c2745f7f6173b913b45978fe4f86c
 
 bugfix 1
 
