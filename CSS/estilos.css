@@ -1,0 +1,67 @@
+body
+{
+    color: red;
+text-align: center;
+font-family: sans-serif;
+font-size: 40px;
+margin: 0rem;
+padding: 0ex;
+background:peru;
+
+}
+
+#cabecera   {
+font-size: 30px;
+background: blueviolet;
+color: rgb(187, 236, 236);
+box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 3);
+padding: 3%;
+text-align: center;
+margin: 0 auto;
+}
+
+#cabecera #tagline
+{
+font-weight: normal;
+font-size: 0.8em;
+margin: auto;
+
+}
+#container
+{
+width: 40%;
+padding:3%;
+text-align: center;
+border: 10px solid indianred ;
+margin:3%;
+}
+
+#container h1
+{
+    color: lightseagreen;
+    width: 75%;
+    padding: 2em;
+    text-align: center;
+    font-family: serif;
+}
+#container p
+{
+width: 90%;
+padding: 1em;
+text-align:justify;
+color:black;
+font-family: Arial, Helvetica, sans-serif;
+}
+ #post
+ {
+     background :blanchedalmond;
+     padding-box:1em;
+ }
+ #footer
+ {
+background-color: cadetblue;
+color: darkred;
+text-align: center;
+box-shadow: 5px 5px 5px 0px rgba(0, 0, 0, 3);
+padding: 4%;
+ }
